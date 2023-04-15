@@ -18,7 +18,7 @@ const App = () => {
 
       <main>
         <About />
-        <Projects title="Experiance" data={experience} />
+        <Projects title="Experience" data={experience} />
         <Projects title="Internships" data={internExperience} />
         <Skills />
         <Contact />
