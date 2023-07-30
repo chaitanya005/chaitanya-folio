@@ -7,7 +7,7 @@ const about = {
   name: "Chaitanya Muvvala",
   role: "React JS Developer",
   description: `I am a skilled software engineer proficient in web development technologies such as <b>React, Node, JavaScript,</b> and <b>HTML/CSS</b>. I am passionate about creating <b>intuitive</b> and <b>user-friendly</b> designs that offer exceptional user experiences. As a <b>reliable team player</b>, I work collaboratively with others to achieve project objectives and meet tight deadlines. With my skills and experience, I am confident in my ability to contribute to any team and handle any project.`,
-  resume: "/KC_Resume_I.pdf",
+  resume: "KC_Resume_i.pdf",
   social: {
     linkedin: "https://www.linkedin.com/in/chaitanyamuvvala",
     github: "https://github.com/chaitanya005",
